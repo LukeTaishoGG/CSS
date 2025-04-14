@@ -1,4 +1,4 @@
-.DX-BOX {
+.dx-box {
   display: grid;
   padding: 10px;
   border: 1px solid #000;
@@ -13,7 +13,7 @@
   margin: 30px
 }
 
-.TP {
+.tp {
   border: none;
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -27,7 +27,7 @@
   width: 150px;
 }
 
-.TP-in-1-2-3 {
+.tp-in-1-2-3 {
   border: none;
   display: grid;
   grid-auto-flow: row;
@@ -42,7 +42,7 @@
   width: 790px;
 }
 
-.TP-in-2-3{
+.tp-in-2-3{
   border: none;
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -75,7 +75,7 @@
   justify-content: space-between;
 }
 
-.TP-in-4-22 {
+.tp-in-4-22 {
   display: grid;
   gap: 30px;
   border: none;
@@ -89,7 +89,7 @@
   width: 345px;
 }
 
-.TP2 {
+.tp2 {
   border: none;
   gap: 30px;
   display: grid;
@@ -107,7 +107,7 @@
   width: 657px;
 }
 
-.TP3 {
+.tp3 {
   border: none;
   height: 155px;
   width: 659px;

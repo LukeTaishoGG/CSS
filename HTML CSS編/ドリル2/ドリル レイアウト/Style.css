@@ -1,5 +1,5 @@
 /* これは全てを囲ってるBOX */
-.DX-BOX {
+.dx-box {
   display: grid;
   gap: 40px;
   padding: 10px;
@@ -15,7 +15,7 @@
 }
 
 /* これはminiを囲ってる透明のBOX */
-.TP {
+.tp {
   border: none;
   display: flex;
   align-items: center;
@@ -36,7 +36,7 @@
 }
 
 /* ここから下の段 */
-.Under {
+.under {
   display: flex;
   gap: 40px;
   height: 400px;
@@ -50,7 +50,7 @@
 }
 
 /* これはminiを囲う透明Box */
-.TP2 {
+.tp2 {
   border: none;
   display: flex;
   flex-direction: column;
@@ -81,7 +81,7 @@
 }
 
 /* これはminiを囲う透明Box */
-.TP3 {
+.tp3 {
   border: none;
   display: flex;
   flex-direction: row;
