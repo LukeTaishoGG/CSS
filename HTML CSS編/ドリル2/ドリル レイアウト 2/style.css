@@ -1,0 +1,123 @@
+.DX-BOX {
+  display: grid;
+  padding: 10px;
+  border: 1px solid #000;
+  height: 753px;
+  width: 1100px;
+}
+
+.top-box {
+  border: 1px solid #000;
+  height: 211px;
+  width: 1034px;
+  margin: 30px
+}
+
+.TP {
+  border: none;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 30px;
+  gap: 30px;
+}
+
+.mini-44 {
+  border: 1px solid #000;
+  height: 150px;
+  width: 150px;
+}
+
+.TP-in-1-2-3 {
+  border: none;
+  display: grid;
+  grid-auto-flow: row;
+  height: 150px;
+  width: 100%;
+  gap: 30px;
+}
+
+.mini-1 {
+  border: 1px solid #000;
+  height: 60px;
+  width: 790px;
+}
+
+.TP-in-2-3{
+  border: none;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  height: 60px;
+  gap: 30px;
+}
+
+.mini-2 {
+  border: 1px solid #000;
+  height: 58px;
+  width: 534px;
+}
+
+.mini-3 {
+  border: 1px solid #000;
+  height: 58px;
+  width: 225px;
+}
+
+
+/* ーーーーーーーーここから下の段ーーーーーーーーーー */
+.Under {
+  margin: 30px;
+  gap: 30px;
+  grid-template-columns: 1fr 1fr;
+  border: none;
+  height: 420px;
+  width: auto;
+  display: grid;
+  justify-content: space-between;
+}
+
+.TP-in-4-22 {
+  display: grid;
+  gap: 30px;
+  border: none;
+  height: 418px;
+  width: 660px;
+}
+
+.mini-66 {
+  border: 1px solid #000;
+  height: 418px;
+  width: 345px;
+}
+
+.TP2 {
+  border: none;
+  gap: 30px;
+  display: grid;
+  grid-auto-flow: row;
+  height: 204px;
+  width: 660px;
+  align-content: space-between;
+}
+
+.mini-4 {
+  display: grid;
+  gap: 30px;
+  border: 1px solid #000;
+  height: 85px;
+  width: 657px;
+}
+
+.TP3 {
+  border: none;
+  height: 155px;
+  width: 659px;
+  display: grid;
+  grid-template-columns: auto auto;
+  justify-content: space-between;
+}
+
+.mini-22 {
+  border: 1px solid #000;
+  height: 140px;
+  width: 140px;
+}
