@@ -2,7 +2,7 @@
 .dx-box {
   display: grid;
   gap: 40px;
-  padding: 10px;
+  padding: 40px;
   border: 1px solid #000;
   height: 100%;
   width: auto;
